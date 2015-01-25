@@ -14,6 +14,8 @@ If you are reading this you either:
 
 This will be my course blog for CS 373, also known as Software Engineering. It is a Python based course that also uses databases and some front-end code. Luckily, I have working on all of those skills the past 8 months, except in databases. *(Did you know that you can graduate from UTCS without ever having to make a single database query?)* I am hopeful past knowledge will help me this semester. I will try my best to clearly communicate my thoughts in this blog, but occasionally I will throw together a post without going through it 4-5 times. 
 
+Occasionally I feel that Downing course are some of the few within UT Computer Science that have a foot in the real world. You not only get to use but are forced to use: version control (git), GitHub, paired programming, required reading that is not inside of a textbook, and also includes extra credit for creating a portfolio and blogging about your experiences in the course.
+
 Since I already know basic Python, the first few code examples we did in the first week were pretty easy for me. Though it made me think about two things:
 
 1. I had to start remembering the differences between Python 2 and Python 3 since I am used to programming in Python 2.7. 
