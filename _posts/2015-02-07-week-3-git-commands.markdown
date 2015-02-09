@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 3 and git commands they don't teach you in school"
+title:  "Week 3 and the git commands they won't teach you in school"
 ---
 
 Six months ago, I thought I knew how to use git... Little did I know how much of a git n00b I was because so much of my work had been on my own and on one branch (Please don't hold this against me. For the most part, I've changed my ways.) When I first took Object Oriented Programming with Downing and was using git to push code to the cloud for storage, my partners and I were definitely not taking advantage of what was given to us. 
