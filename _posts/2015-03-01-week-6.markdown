@@ -10,3 +10,6 @@ So I am going to relate this post as much as I can to my experiences as of recen
 One other reason why I am super excited about using Flask is because I have never built out a REST API with it other than one [tutorial](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask). From my experiences with Flask on smaller projects, it appears to be flexible for building lightweight REST APIs. It has extensions like [Flask-RESTful](https://flask-restful.readthedocs.org/en/0.3.2/) to help make the process even easier and other extensions that can help with the database layer and other stuff like forms. 
 
 I'm also still formulating my thoughts on why I really love Flask and am extremely sleep deprived right now. Although that's a bad excuse, I really just want to build and see how things go. Who knows, I may even change my opinion on Flask through the process. 
+
+> Tip of the Week:
+> Note to self: Study a ton for the exam on Thursday. WRITE CODE. RUN CODE. THINK IN CODE.
