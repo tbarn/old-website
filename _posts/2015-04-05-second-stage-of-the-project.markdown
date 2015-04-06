@@ -10,4 +10,4 @@ We realized once looking at the second stage of the project's specs that we real
 On a side note, I really enjoyed this quote from Conrad Stoll's guest lecture related to open source: "Shared Problems Deserve Shared Solutions." This goes beyond just being an active participant in open source activities. I feel it says a lot about how as a community we can collaborate more on practically everything because there are a TON of the problems. 
 
 > Tip of the Week: 
-> If you don't want to do more work than you have to, you should ask more questions about the project secs. 
+> If you don't want to do more work than you have to, you should ask more questions about the project specs. 
