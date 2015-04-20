@@ -16,5 +16,7 @@ Here's a few of them that I came up with tonight, in no way is this an exhaustiv
 * JIRA, Trello, or some kind of super charged issue tracking and project management software
 * Pingdom or a related service to do website monitoring
 
+We already were using Pingdom, GitHub, and a little Postman in our project. As of today, Andy got TravisCI not only setup for our repo, but it is now passing builds, which is awesome! 
+
 > Tip of the Week:
 > You don’t have to become an expert at any of these tools. If you can even say that you have used some of them a few times, an employer (probably if you are talking to someone from engineering) would be impressed. This is because so many college students as of lately are graduating without any experience with any “Real Life Engineering Tools.” Modern tech companies heavily rely on these types of tools.
