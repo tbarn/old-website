@@ -1,0 +1,424 @@
+ * {
+	margin: 0;
+	padding: 0;
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+
+html {
+	background-color: #F9F9F9;
+	font-family: 'Inconsolata', sans-serif;
+	width: 100%;
+	height: 100%;
+}
+
+.holder {
+	margin: 0 auto;
+	max-width: 900px;
+	height: 100%;
+	overflow: hidden;
+}
+
+.top-area {
+	width: 100%;
+}
+
+/*Comment Test*/
+
+.top-area h1 {
+	text-align: center; 
+	font-size: 8em;
+}
+
+#taylor a{
+	opacity: 1;
+	color: #538cc6;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#taylor a:hover {
+	opacity: 0.5;
+}
+
+.top-area h2 {
+	margin-top: 20px;
+	text-align: center; 
+	font-size: 5em;
+	text-transform: uppercase;
+}
+
+
+#developer a{
+	color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+
+#developer a:hover {
+	opacity: .5;
+}
+
+
+#longhorn a{
+	color: #CF5300;
+	opacity: 1;
+	text-decoration: none;
+}
+
+#longhorn a:hover {
+	opacity: .5;
+}
+
+
+#weirdos a{
+	opacity: 1;
+	text-decoration: none;
+	color: #6ECF81;
+}
+
+#weirdos a:hover {
+	opacity: .5;
+}
+
+.top-area h3 {
+	text-align: center; 
+	font-size: 5em;
+	color: #4D4D4D;
+}
+
+.top-area p {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.top-area p a{
+	color: #4D4D4D;
+	opacity: 1;
+	font-size: 1.1em;
+	line-height: 1.5em;
+	text-decoration: none;
+}
+
+.top-area p a:hover {
+	opacity: .5;
+}
+
+.aboutme {
+	margin-top: 250px;
+	background-color: #538cc6;
+	width: 100%;
+	height: 100%;
+	padding: 150px 0 0 0;
+}
+
+.hero {
+	width: 40%;
+	float: left;
+}
+
+.hero img {
+	display: block;
+	width: 100%;
+}
+
+.hello {
+	width: 55%;
+	float: right;
+}
+
+.hello h1 {
+	text-align: center;
+	font-size: 3em;
+	color: #F9F9F9;
+}
+
+.hello p {
+	text-align: justify;
+	padding-top: 10px;
+	font-size: 1em;
+	line-height: 1.2em;
+	color: #F9F9F9;
+}
+
+.updown {
+	clear: both;
+	text-align: center;
+	font-size: 1.5em;
+	padding: 100px 0;
+}
+
+.updown a {
+	color: #4D4D4D;
+	opacity: 1;
+	text-decoration: none;
+}
+
+.updown a:hover {
+	opacity: .5;
+}
+
+#github {
+	color: #F9F9F9;
+	text-align: center;
+	font-size: 3em;
+	margin: 0 0 30px 0; 
+}
+
+.java {
+	background-color: #000;
+	color: #F9F9F9;
+	width: 100%;
+	height: 100%;
+	padding: 120px 0;
+}
+
+.python {
+	width: 100%;
+}
+
+#flask {
+	float: left;
+	padding: 10px 0;
+	display: block;
+	max-width: 400px;
+	width: 100%;
+}
+
+#django {
+	float: right;
+	padding: 10px 0;
+	display: block;
+	max-width: 400px;
+	width: 100%;
+}
+
+.ruby {
+	width: 100%;
+}
+
+#rails {
+	float: left;
+	padding: 10px 0;
+	display: block;
+	max-width: 400px;
+	width: 100%;
+}
+
+#sinatra {
+	float: right;
+	padding: 0px 0;
+	display: block;
+	max-width: 350px;
+	width: 100%;
+}
+
+#devupdown a{
+	color: #F9F9F9
+}
+
+.bevo {
+	background-color: #CF5300;
+	width: 100%;
+	height: 100%;
+	padding: 150px 0 0 0;
+}
+
+.hookem {
+	width: 40%;
+	float: right;
+}
+
+.hookem img {
+	display: block;
+	width: 100%;
+	padding: 10px 0;
+}
+
+.thetower {
+	width: 55%;
+	float: left;
+}
+
+.thetower h1 {
+	text-align: center;
+	font-size: 3em;
+	color: #F9F9F9;
+}
+
+.thetower p {
+	text-align: justify;
+	padding-top: 10px;
+	font-size: 1em;
+	line-height: 1.2em;
+	color: #F9F9F9;
+}
+
+.waterloo {
+	background-color: #6ECF81;
+	color: #F9F9F9;
+	width: 100%;
+	height: 100%;
+	padding: 150px 0 0 0;
+}
+
+
+#austinite {
+	color: #F9F9F9;
+	text-align: center;
+	font-size: 3em;
+	margin: 0 0 30px 0; 
+}
+
+.Austinite_row1 {
+	width: 100%;
+}
+
+smaller media querie {
+	padding: 0 
+	width: 100%;
+}
+
+#biking {
+	float: left;
+	padding: 10px 0;
+	display: block;
+	max-width: 400px;
+	width: 100%;
+}
+
+#bbq {
+	float: right;
+	padding: 10px 0;
+	display: block;
+	max-width: 400px;
+	width: 100%;
+}
+
+.Austinite_row2 {
+	width: 100%;
+}
+
+#tacos {
+	float: left;
+	padding: 10px 0;
+	display: block;
+	max-width: 400px;
+	width: 100%;
+}
+
+#vintageheart {
+	float: right;
+	padding: 10px 0;
+	display: block;
+	max-width: 400px;
+	width: 100%;
+}
+
+#bottomupdown {
+	padding: 30px 0;
+}
+
+.footer h3{
+	text-align: center;
+	margin: 20px 0;
+}
+
+.footer h3 a {
+	color: inherit;
+}
+
+@media (max-width: 48em) {
+
+	.top-area h1 {
+	font-size: 6em;
+	}
+
+	.top-area h2 {
+	font-size: 4em;
+	}
+
+	.hero {
+	width: 100%;
+	padding: 0 10px;	
+	}
+
+	.hello {
+		width: 100%;
+		margin-top: 5px;
+		padding: 10px;
+	}
+
+	.python {
+		padding: 10px;
+		margin: 0 auto;
+	}
+
+	#flask {
+		float: none;
+		margin: 0 auto;
+	}
+
+	#django {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.ruby {
+		padding: 10px;
+		margin: 0 auto;
+	}
+
+	#rails {
+		float: none;
+		margin: 0 auto;
+	}
+
+	#sinatra {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.downtown {
+		padding: 10px;
+		margin: 0 auto;
+	}
+
+	#acl {
+		float: none;
+		margin: 0 auto;
+	}
+
+	#capitalfactory {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.startups {
+		padding: 10px;
+		margin: 0 auto;
+	}
+
+	#metcalfe {
+		float: none;
+		margin: 0 auto;
+	}
+
+	#vintageheart {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.hookem {
+		width: 100%;
+		padding: 0 10px;	
+	}
+
+	.thetower {
+		width: 100%;
+		margin-top: 5px;
+		padding: 10px;
+	}
+
+}
