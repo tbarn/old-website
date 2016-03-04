@@ -1,5 +1,5 @@
-<script src="jquery.js"></script>
-<script src="typed.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.js"></script>
+<script src="js/typed.js"></script>
 <script>
     $(function(){
         $("#typed").typed({
@@ -8,8 +8,30 @@
     });
 </script>
 
-<div id="typed-strings">
-    <p>Typed.js is a <strong>jQuery</strong> plugin.</p>
-    <p>It <em>types</em> out sentences.</p>
-</div>
+Taylor is a <div id="typed-strings"> <p>human.</p> </div> 
 <span id="typed"></span>
+
+<style type="text/css">
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+</style>
